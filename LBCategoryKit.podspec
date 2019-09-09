@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBCategoryKit'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'First test Private lib'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LBCategoryKit/Classes/**/*'
+  s.source_files = 'LBCategoryKit/Classes/*'
   
   # s.resource_bundles = {
   #   'LBCategoryKit' => ['LBCategoryKit/Assets/*.png']
