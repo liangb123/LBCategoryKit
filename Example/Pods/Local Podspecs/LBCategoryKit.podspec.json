@@ -1,0 +1,22 @@
+{
+  "name": "LBCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LBCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/819519499@qq.com/LBCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "819519499@qq.com": "36224"
+  },
+  "source": {
+    "git": "https://github.com/819519499@qq.com/LBCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LBCategoryKit/Classes/**/*"
+}
