@@ -1,6 +1,6 @@
 {
   "name": "LBCategoryKit",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "First test Private lib",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/liangb123/LBCategoryKit",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/liangb123/LBCategoryKit.git",
-    "tag": "0.5.0"
+    "tag": "0.6.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "LBCategoryKit/Classes/**"
+  "source_files": "LBCategoryKit/Classes/*"
 }

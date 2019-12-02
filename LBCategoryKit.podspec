@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBCategoryKit'
-  s.version          = '0.5.0'
+  s.version          = '0.6.0'
   s.summary          = 'First test Private lib'
 
 # This description is used to generate tags and improve search results.
@@ -22,7 +22,6 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/liangb123/LBCategoryKit'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '819519499@qq.com' => '36224' }
   s.source           = { :git => 'https://github.com/liangb123/LBCategoryKit.git', :tag => s.version.to_s }
@@ -30,7 +29,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'LBCategoryKit/Classes/**'
+  s.source_files = 'LBCategoryKit/Classes/*'
   
   # s.resource_bundles = {
   #   'LBCategoryKit' => ['LBCategoryKit/Assets/*.png']
